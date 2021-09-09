@@ -1,0 +1,2 @@
+# BrainTumorSegmentation-using-Transfer-Learning
+Brain Tumor Segmentation using Transfer learning. Image segmentation is the task of clustering parts of an image together that belong to the same object class. This process is also called pixel-level classification. Brain Tumor Segmentation is a multi-class problem and this model classifies Gliomia tumor, Meningomia Tumor, Pituitary tumor and No tumor with an accuracy of 93%.
